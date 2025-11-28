@@ -1,4 +1,4 @@
-# Financial Analysis & Strategic Forecasting of TCS
+# Financial Analysis & Forecasting of TCS
 Analyzed 5 years of financial statements to assess performance trends and forecasted 2-year outlook using macroeconomic and industry data.
 
 - Conducted in-depth financial analysis of TCS, utilizing Bloomberg data to examine 5 years of historical financial statements and assess key trends impacting performance.
